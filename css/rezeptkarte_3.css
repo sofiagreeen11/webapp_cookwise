@@ -401,9 +401,9 @@ body {
     background-color: color-mix(in srgb, var(--prime-color2) 20%, transparent);
     border: 1px solid var(--prime-color3);
     border-radius: 0.4rem;
-    font-size: 0.85rem; 
+    font-size: 1rem; 
     color: var(--prime-color5);
-    line-height: 1.4;
+    line-height: 1.7;
 }
 
 .recipe-sub-title {
